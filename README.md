@@ -1,6 +1,9 @@
 CMAQv5.2 Beta
 ========
 
+**Intent of this CMAQ version:** The Beta version of CMAQ was released in October 2016 for users and contributors outside of EPA to test the code and report potential errors back to EPA for resolution. Many such issues have been resolved and the code has been re-released under the 5.2Gamma branch. Users wanting to test the CMAQv5.2 code before its release should utilize the Gamma version, not the Beta version.
+
+## CMAQ Overview
 Community Multiscale Air Quality Model [US EPA Website](https://www.epa.gov/air-research/community-multi-scale-air-quality-cmaq-modeling-system-air-quality-management)
 
 CMAQ is an active open-source development project of the U.S. EPA Computational Exposure Division
